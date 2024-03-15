@@ -6,7 +6,7 @@
 <hr>
 <h3>Selector De Dificultades:</h3>
 <img src="https://i.ibb.co/zxZd5Lv/Captura-de-pantalla-2024-03-15-192919.png" alt="Captura-de-pantalla-2024-03-15-192919" border="0">
-<p>En este menu de seleccion podras elejir que dificultad jugar y segun la que elijas sera mas facil o complicado de seguir adelante.</p>
+<p>En este menu de seleccion podras elegir que dificultad jugar y segun la que elijas sera mas facil o complicado de seguir adelante.</p>
 <hr>
 <h3>Previsualización Del Videjuego:</h3>
 <img src="https://i.ibb.co/5jKfZ3C/Captura-de-pantalla-2024-03-15-192855.png" alt="Captura-de-pantalla-2024-03-15-192855" border="0">
